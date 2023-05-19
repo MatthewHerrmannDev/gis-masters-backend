@@ -1,0 +1,26 @@
+{
+    "org_id_1": [
+        {
+            "asset_id": "1",
+            "length": 12,
+            "diameter": 6
+        },
+        {
+            "asset_id": "2",
+            "length": 14,
+            "diameter": 6
+        }
+    ],
+    "org_id_2": [
+        {
+            "asset_id": "1",
+            "has_event": true,
+            "length": 24
+        },
+        {
+            "asset_id": "2",
+            "has_event": false,
+            "length": 12
+        }
+    ]
+}
